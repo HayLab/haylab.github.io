@@ -113,15 +113,7 @@ nav: true
     </strong><br>
     Research Technician, Lab Manager
   </div>
-  <!-- <div class="col">
-    {% include figure.html path="assets/img/Ben.jpg" class="img-fluid rounded z-depth-1" %}
-    <strong>
-      <center>
-        Ben Simpson
-      </center>
-    </strong><br>
-    Research Technician
-  </div> -->
+  
   <div class="col">
     {% include figure.html path="assets/img/Michelle.png" class="img-fluid rounded z-depth-1" %}
     <strong>
