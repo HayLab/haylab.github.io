@@ -61,6 +61,7 @@ horizontal: false
       <div class="col">
         {% include projects.html %}
       </div>
+    {% endfor %}
   </div>
   {%- endif -%}
 {%- endif -%}
