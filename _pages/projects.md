@@ -53,14 +53,12 @@ horizontal: false
     </div>
   </div>
   {%- else -%}
-  <div class="grid">
+  <div class="row">
     {%- for project in sorted_projects -%}
-      {% if loop.index % 3 == 0 %}
-      <div class="w-100"><br></div><br>
+      {% include projects.html %}
+      {% if (loop.index % 3) == 0 %}
+        <div class="w-100"><br></div><br>
       {% endif %}
-      <div class="col">
-        {% include projects.html %}
-      </div>
     {% endfor %}
   </div>
   {%- endif -%}
