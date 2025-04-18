@@ -29,7 +29,12 @@ horizontal: false
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% include projects.html %}
+      {% if loop.index % 3 == 0 %}
+      <div class="w-100"><br></div><br>
+      {% endif %}
+      <div class="col">
+        {% include projects.html %}
+      </div>
     {%- endfor %}
   </div>
   {%- endif -%}

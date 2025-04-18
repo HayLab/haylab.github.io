@@ -105,7 +105,7 @@ nav: true
   <div class="w-100"><br></div><br>
 
   <div class="col">
-    {% include figure.html path="assets/img/Ella.png" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/Ella.JPG" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
         Ella Wood
@@ -124,6 +124,6 @@ nav: true
     Research Technician
   </div>
   
-  <!-- <div class="col">
-  </div> -->
+  <div class="col">
+  </div>
 </div>
