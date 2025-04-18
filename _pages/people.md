@@ -61,13 +61,13 @@ nav: true
   </div>
 
   <div class="col">
-    {% include figure.html path="TODO" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/Grace.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
         Grace Wilson
       </center>
     </strong><br>
-    Undergraduate Researcher, [MAJOR] [YEAR]
+    Undergraduate Researcher, Biology '25
   </div>
 
   <div class="w-100"><br></div><br>
@@ -105,7 +105,7 @@ nav: true
   <div class="w-100"><br></div><br>
 
   <div class="col">
-    {% include figure.html path="assets/img/TODO" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/Ella.png" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
         Ella Wood
@@ -113,7 +113,7 @@ nav: true
     </strong><br>
     Research Technician, Lab Manager
   </div>
-  <div class="col">
+  <!-- <div class="col">
     {% include figure.html path="assets/img/Ben.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
@@ -121,7 +121,7 @@ nav: true
       </center>
     </strong><br>
     Research Technician
-  </div>
+  </div> -->
   <div class="col">
     {% include figure.html path="assets/img/Michelle.png" class="img-fluid rounded z-depth-1" %}
     <strong>
