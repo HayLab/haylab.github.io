@@ -7,25 +7,32 @@ description:
 nav: true
 ---
 
+Our lab is funded through a variety of sources, and we are grateful to the following groups in their support of our various projects.
+
+<strong>Resnick Sustainability Insitute</strong> <br>
+supporting Thomas' work on plasmid dynamics in microbial populations, under an Explorer Grant (2025)
+
+<strong>Center for Environmental Microbial Interactions (CEMI)</strong> <br>
+supporting Thomas' work on engineering new plasmid population dynamics, under a Pilot Grant (2024)
+
 <strong>National Institute of Aging (NIA)</strong> <br>
-Mitochondrial DNA quality control, aging and Alzheimer's disease
+supporting our work on mitochondrial DNA quality control, aging and Alzheimer's disease
 
 <strong>Defense Advanced Research Projects Administration (DARPA)</strong> <br>
-Engineering the plant mitochondrial genome
+supporting our work on engineering the plant mitochondrial genome
 
 <strong>California Cherry Board and the WA Tree Fruit Research Commission</strong> <br>
-Gene drive for population alteration and suppression
+supporting our work on gene drive for population alteration and suppression
 
 <strong>Caltech Division of BBE</strong> <br>
-Mitochondrial basis of aging and quality control
+supporting our work on the mitochondrial basis of aging and quality control
 
-<strong>Private Philanthropy</strong> <br>
-Charlie Trimble <br>
+<strong>Private Philanthropists </strong> Charlie Trimble and 
 George Rappolt
 
-<strong>NIH 5T32GM007616-39</strong> <br>
-Tobin Ivy
+<strong>National Insitute of Health (NIH) </strong> <br>
+supporting the work of Tobin Ivy, under grant 5T32GM007616-39
 
-<strong>Postdoctoral Fellowship from Deutsche Forschungsgemeinschaft (DFG)
+<strong>Deutsche Forschungsgemeinschaft (DFG)
 OB428/1-1</strong> <br>
-Georg Oberhofer
+supporting the work of Georg Oberhofer, under a Postdoctoral Fellowship

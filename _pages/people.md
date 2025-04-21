@@ -89,7 +89,7 @@ nav: true
         Tobin Ivy
       </center>
     </strong><br>
-    Researcher
+    Research Staff
   </div>
   
   <div class="col">
@@ -99,7 +99,7 @@ nav: true
         Michelle Johnson
       </center>
     </strong><br>
-    Research Technician
+    Research Staff
   </div>
   
   <!-- <div class="col"> -->
