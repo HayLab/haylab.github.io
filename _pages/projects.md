@@ -48,17 +48,19 @@ horizontal: false
     </div>
   </div>
   {%- else -%}
-    <div class="card-deck">
+  <div class="card-deck">
     {%- for project in sorted_projects %}
-        {% include projects.html %}
+      {% include projects.html %}
       
       {% if forloop.counter == 2 %}
         </div>
         <div class="card-deck">
       {% endif %}
+
+      <p> LOOP INDEX IS {{loop.index}} AND FORLOOP COUNTER IS {{forloop.counter}} </p>
       
     {%- endfor %}
-    </div>
+  </div>
   {%- endif -%}
 {%- endif -%}
 </div>
