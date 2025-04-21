@@ -52,7 +52,7 @@ horizontal: false
     {%- for project in sorted_projects %}
         {% include projects.html %}
       
-      {% if loop.index == 2 %}
+      {% if forloop.counter == 2 %}
         </div>
         <div class="card-deck">
       {% endif %}
