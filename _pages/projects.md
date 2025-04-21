@@ -54,6 +54,7 @@ horizontal: false
       
       {% if forloop.index == 2 %}
         </div>
+        <div><br></div><br>
         <div class="card-deck">
       {% endif %}
       
