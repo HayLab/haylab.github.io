@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cell death, neurodegenerative disease and mitochondrial quality control.
+title: Cell death, neurodegenerative disease and mitochondrial quality control
 description:
 img: /assets/img/cell death and mitochondrial quality control.jpg
 importance: 1

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interactive learning and Community Science Academy.
+title: Interactive learning and Community Science Academy
 description:
 img: /assets/img/Library.jpg
 importance: 5

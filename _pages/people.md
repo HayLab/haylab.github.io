@@ -102,6 +102,7 @@ nav: true
     Research Technician
   </div>
   
-  <div class="col">
-  </div>
+  <!-- <div class="col"> -->
+  <!-- a spacer -->
+  <!-- </div> -->
 </div>
