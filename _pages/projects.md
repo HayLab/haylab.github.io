@@ -56,7 +56,7 @@ horizontal: false
   <div class="row">
     {%- for project in sorted_projects -%}
       {% include projects.html %}
-      {% if (loop.index % 3) == 0 %}
+      {% if loop.index % 3 == 0 %}
         <div class="w-100"><br></div><br>
       {% endif %}
     {% endfor %}
