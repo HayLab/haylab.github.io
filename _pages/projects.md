@@ -29,12 +29,7 @@ horizontal: false
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% if loop.index % 3 == 0 %}
-      <div class="w-100"><br></div><br>
-      {% endif %}
-      <div class="col">
-        {% include projects.html %}
-      </div>
+      {% include projects.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
@@ -53,14 +48,13 @@ horizontal: false
     </div>
   </div>
   {%- else -%}
-  <div class="row">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-      {% if loop.index == 2 %}
-        <div class="w-100"><br></div><br>
-      {% endif %}
-    {% endfor %}
-  </div>
+    {%- for three_proj in sorted_projects|batch(3, '&nbsp;') %}
+      <div class="card-deck">
+      {%- for project in three_proj -%}
+        {% include projects.html %}
+      {%- endfor %}
+      </div>
+    {%- endfor %}
   {%- endif -%}
 {%- endif -%}
 </div>

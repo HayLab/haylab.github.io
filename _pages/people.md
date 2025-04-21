@@ -39,16 +39,6 @@ nav: true
   </div>
 
   <div class="w-100"><br></div><br>
-  
-  <div class="col">
-    {% include figure.html path="assets/img/Tobin.jpg" class="img-fluid rounded z-depth-1" %}
-    <strong>
-      <center>
-        Tobin Ivy
-      </center>
-    </strong><br>
-    Graduate Student
-  </div>
 
   <div class="col">
     {% include figure.html path="assets/img/TomSelf1.jpg" class="img-fluid rounded z-depth-1" %}
@@ -70,18 +60,6 @@ nav: true
     Undergraduate Researcher, Biology '25
   </div>
 
-  <div class="w-100"><br></div><br>
-
-  <div class="col">
-    {% include figure.html path="assets/img/Cyril copy.jpg" class="img-fluid rounded z-depth-1" %}
-    <strong>
-      <center>
-        Cyril De Villiers de la Noue
-      </center>
-    </strong><br>
-    Undergraduate Researcher, Molecular Biology '25, Exchange student from UCL
-  </div>
-
   <div class="col">
     {% include figure.html path="assets/img/Emma_Olinger.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
@@ -90,16 +68,6 @@ nav: true
       </center>
     </strong><br>
     Undergraduate Researcher, Bioengineering '26
-  </div>
-
-  <div class="col">
-    {% include figure.html path="assets/img/Mannare.jpg" class="img-fluid rounded z-depth-1" %}
-    <strong>
-      <center>
-        Mannare Nuermaimaiti
-      </center>
-    </strong><br>
-    Undergraduate Researcher, Bioengineering '27
   </div>
 
   <div class="w-100"><br></div><br>
@@ -112,6 +80,16 @@ nav: true
       </center>
     </strong><br>
     Research Technician, Lab Manager
+  </div>
+
+  <div class="col">
+    {% include figure.html path="assets/img/Tobin.jpg" class="img-fluid rounded z-depth-1" %}
+    <strong>
+      <center>
+        Tobin Ivy
+      </center>
+    </strong><br>
+    Researcher
   </div>
   
   <div class="col">
