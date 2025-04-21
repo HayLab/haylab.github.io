@@ -48,13 +48,17 @@ horizontal: false
     </div>
   </div>
   {%- else -%}
-    {%- for three_proj in sorted_projects|batch(3, '&nbsp;') %}
-      <div class="card-deck">
-      {%- for project in three_proj -%}
+    <div class="card-deck">
+    {%- for project in sorted_projects %}
         {% include projects.html %}
-      {%- endfor %}
-      </div>
+      
+      {% if loop.index == 2 %}
+        </div>
+        <div class="card-deck">
+      {% endif %}
+      
     {%- endfor %}
+    </div>
   {%- endif -%}
 {%- endif -%}
 </div>
