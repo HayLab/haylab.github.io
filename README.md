@@ -1,3 +1,11 @@
+# Table of Contents
+1. [More about al-folio](#al-folio)
+2. [List of other Users](#user-community)
+3. [Getting Started](#getting-started)
+4. [Features](#features)
+5. [Contributing](#contributing)
+6. [License](#license)
+
 # al-folio
 
 [![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
@@ -122,6 +130,10 @@ $ bundle exec jekyll serve
 
 Now, feel free to customize the theme however you like (don't forget to change the name!).
 After you are done, **commit** your final changes.
+
+Use the command 
+```bundle exec jekyll serve --baseurl=""```
+to view the website at http://localhost:4000/
 
 #### Deployment
 
