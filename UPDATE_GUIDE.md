@@ -27,7 +27,7 @@ Once you have access, you can edit the website and files in two ways. First, thr
 
 ## Visual Edits
 
-So, you think the website looks ugly. It could use a fresh coat of paint, or maybe text boxes that fit together snugly.
+So, you think the website looks ugly. It could use a fresh coat of paint, or maybe text boxes that fit together snugly. The information for how the website gets put together is hiding in a couple of different places. In teh _layouts folder, you'll find most of the important html for putting the website together. The folder _includes also includes html files, but of smaller blocks (such as posts/headers/footers). Under assets > js, there are a number of javascript files, which may or may not be relevant. 
 
 ## Publishing Your Changes
 
