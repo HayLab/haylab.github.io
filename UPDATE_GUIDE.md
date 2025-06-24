@@ -182,7 +182,7 @@ The html of this page can be edited directly in the file `_pages/funding.md`
 
 So, you think the website looks ugly. It could use a fresh coat of paint, or maybe text boxes that fit together snugly. Let's talk about some website basics!
 
-**HTML**. Most of this website is coded directly in HTML. This includes the markdown files in `_pages`, along with the html files in `_includes` and `_layouts`. For basic formatting, I recommend looking through the html first.
+**HTML**. Most of this website is coded directly in HTML. This includes the html files in `_includes` and `_layouts`, but also the markdown files in `_pages`. Of note, these markdown files also use *Jekyll* to take in inputs from other places in the code. The sections in curly brackets {} {{}} are JEKYLL syntax. For basic formatting, I recommend looking through the html first.
 
 *Tip:* If you have an idea for some html editing, you can try it out in the broswer first. Go to the webpage you want to change, right click the page, and select "Inspect". You can now view the html itself, and make edits. I like using this trick to make sure the style tags I'm adding will actually do what I want them to. Once you're happy, you can come back to the code and add your final edits here.
 
