@@ -180,7 +180,6 @@ The html of this page can be edited directly in the file `_pages/funding.md`
 
 ## Visual Edits
 
-<<<<<<< HEAD
 So, you think the website looks ugly. It could use a fresh coat of paint, or maybe text boxes that fit together snugly. Let's talk about some website basics!
 
 **HTML**. Most of this website is coded directly in HTML. This includes the markdown files in `_pages`, along with the html files in `_includes` and `_layouts`. For basic formatting, I recommend looking through the html first.
