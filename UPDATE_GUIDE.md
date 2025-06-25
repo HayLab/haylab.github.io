@@ -160,7 +160,7 @@ To add or edit people, go to the page `_pages/people.md`. Each person's entry ha
 
 ```
 <div class="col">
-    {% include figure.html path="assets/img/Georg.jpg" class="img-fluid rounded z-depth-1" %}
+    \curlybracket % include figure.html path="assets/img/Georg.jpg" class="img-fluid rounded z-depth-1" % \curlybracket
     <strong>
       <center>
         Georg Oberhofer
