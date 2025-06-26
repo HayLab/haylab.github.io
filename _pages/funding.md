@@ -9,30 +9,33 @@ nav: true
 
 Our lab is funded through a variety of sources, and we are grateful to the following groups in their support of our various projects.
 
+<strong>Center for Evolutionary Science</strong> <br>
+Supporting Thomas' work on the evolutionary pressures of conjugation in bacterial populations, under a Pilot Grant (2025)
+
 <strong>Resnick Sustainability Insitute</strong> <br>
-supporting Thomas' work on plasmid dynamics in microbial populations, under an Explorer Grant (2025)
+Supporting Thomas' work on plasmid dynamics in microbial populations, under an Explorer Grant (2025)
 
 <strong>Center for Environmental Microbial Interactions (CEMI)</strong> <br>
-supporting Thomas' work on engineering new plasmid population dynamics, under a Pilot Grant (2024)
+Supporting Thomas' work on engineering new plasmid population dynamics, under a Pilot Grant (2024)
 
 <strong>National Institute of Aging (NIA)</strong> <br>
-supporting our work on mitochondrial DNA quality control, aging and Alzheimer's disease
+Supporting our work on mitochondrial DNA quality control, aging and Alzheimer's disease
 
 <strong>Defense Advanced Research Projects Administration (DARPA)</strong> <br>
-supporting our work on engineering the plant mitochondrial genome
+Supporting our work on engineering the plant mitochondrial genome
 
 <strong>California Cherry Board and the WA Tree Fruit Research Commission</strong> <br>
-supporting our work on gene drive for population alteration and suppression
+Supporting our work on gene drive for population alteration and suppression
 
 <strong>Caltech Division of BBE</strong> <br>
-supporting our work on the mitochondrial basis of aging and quality control
+Supporting our work on the mitochondrial basis of aging and quality control
 
 <strong>Private Philanthropists </strong> Charlie Trimble and 
 George Rappolt
 
 <strong>National Insitute of Health (NIH) </strong> <br>
-supporting the work of Tobin Ivy, under grant 5T32GM007616-39
+Supporting the work of Tobin Ivy, under grant 5T32GM007616-39
 
 <strong>Deutsche Forschungsgemeinschaft (DFG)
 OB428/1-1</strong> <br>
-supporting the work of Georg Oberhofer, under a Postdoctoral Fellowship
+Supporting the work of Georg Oberhofer, under a Postdoctoral Fellowship
