@@ -9,10 +9,10 @@ nav: true
 
 Our lab is funded through a variety of sources, and we are grateful to the following groups in their support of our various projects.
 
-<strong>Center for Evolutionary Science</strong> <br>
+<strong>Center for Evolutionary Science (CES)</strong> <br>
 Supporting Thomas' work on the evolutionary pressures of conjugation in bacterial populations, under a Pilot Grant (2025)
 
-<strong>Resnick Sustainability Insitute</strong> <br>
+<strong>Resnick Sustainability Insitute (RSI)</strong> <br>
 Supporting Thomas' work on plasmid dynamics in microbial populations, under an Explorer Grant (2025)
 
 <strong>Center for Environmental Microbial Interactions (CEMI)</strong> <br>
