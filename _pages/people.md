@@ -47,18 +47,9 @@ nav: true
         Thomas Adamo-Schmidt
       </center>
     </strong><br>
-    Graduate Student
+    Graduate Student, Lab Manager
   </div>
 
-  <div class="col">
-    {% include figure.html path="assets/img/Grace.jpg" class="img-fluid rounded z-depth-1" %}
-    <strong>
-      <center>
-        Grace Wilson
-      </center>
-    </strong><br>
-    Undergraduate Researcher, Biology '25
-  </div>
 
   <div class="col">
     {% include figure.html path="assets/img/Emma_Olinger.jpg" class="img-fluid rounded z-depth-1" %}
@@ -79,7 +70,7 @@ nav: true
         Ella Wood
       </center>
     </strong><br>
-    Research Technician, Lab Manager
+    Research Staff
   </div>
 
   <div class="col">
