@@ -61,7 +61,6 @@ nav: true
     Undergraduate Researcher, Bioengineering '26
   </div>
 
-  <div class="w-100"><br></div><br>
 
   <div class="col">
     {% include figure.html path="assets/img/Ella.JPG" class="img-fluid rounded z-depth-1" %}
@@ -72,6 +71,10 @@ nav: true
     </strong><br>
     Research Staff
   </div>
+
+
+  <div class="w-100"><br></div><br>
+
 
   <div class="col">
     {% include figure.html path="assets/img/Tobin.jpg" class="img-fluid rounded z-depth-1" %}
