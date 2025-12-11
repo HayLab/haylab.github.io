@@ -29,18 +29,6 @@ nav: true
   </div>
 
   <div class="col">
-    {% include figure.html path="assets/img/Marken_photo_square.png" class="img-fluid rounded z-depth-1" %}
-    <strong>
-      <center>
-        John Marken
-      </center>
-    </strong><br>
-    Postdoctoral Scholar, PhD
-  </div>
-
-  <div class="w-100"><br></div><br>
-
-  <div class="col">
     {% include figure.html path="assets/img/TomSelf1.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
@@ -50,6 +38,7 @@ nav: true
     Graduate Student, Lab Manager
   </div>
 
+  <div class="w-100"><br></div><br>
 
   <div class="col">
     {% include figure.html path="assets/img/Emma_Olinger.jpg" class="img-fluid rounded z-depth-1" %}
@@ -60,21 +49,6 @@ nav: true
     </strong><br>
     Undergraduate Researcher, Bioengineering '26
   </div>
-
-
-  <div class="col">
-    {% include figure.html path="assets/img/Ella.JPG" class="img-fluid rounded z-depth-1" %}
-    <strong>
-      <center>
-        Ella Wood
-      </center>
-    </strong><br>
-    Research Staff
-  </div>
-
-
-  <div class="w-100"><br></div><br>
-
 
   <div class="col">
     {% include figure.html path="assets/img/Tobin.jpg" class="img-fluid rounded z-depth-1" %}
