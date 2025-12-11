@@ -19,7 +19,7 @@ nav: true
   </div>
 
   <div class="col">
-    {% include figure.html path="assets/img/Georg.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/Georg-Oberhofer.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
         Georg Oberhofer
