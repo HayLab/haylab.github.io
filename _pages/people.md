@@ -51,6 +51,18 @@ nav: true
   </div>
 
   <div class="col">
+    {% include figure.html path="assets/img/sawyervanzanten.jpg" class="img-fluid rounded z-depth-1" %}
+    <strong>
+      <center>
+        Sawyer VanZanten
+      </center>
+    </strong><br>
+    Undergraduate Researcher, Bioengineering '29
+  </div>
+
+ <div class="w-100"><br></div><br>
+
+  <div class="col">
     {% include figure.html path="assets/img/Tobin.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
