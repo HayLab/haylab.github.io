@@ -9,6 +9,9 @@ nav: true
 
 Our lab is funded through a variety of sources, and we are grateful to the following groups in their support of our various projects.
 
+<strong>Center for Evolutionary Science (CES)</strong> <br>
+Supporting Thomas' work on the evolution of toxin-antidote systems, under a Pilot Grant (2026)
+
 <strong>Natural Sciences and Engineering Research Council of Canada (NSERC)</strong> <br>
 Supporting Thomas' work on competition-based gene drive in conjugative plasmid populations, under an NSERC CGRS-D Scholarship (2026)
 
