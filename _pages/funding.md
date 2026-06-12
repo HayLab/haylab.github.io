@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /funding/
-title: funding
+title: Funding
 priority: 5
 description:
 nav: true
