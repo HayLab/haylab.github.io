@@ -8,7 +8,7 @@ profile:
   align: right
   image: Kerckhoff_front.jpg
 
-News: true  # includes a list of news items
+news: true  # includes a list of news items
 social: false  # includes social icons at the bottom of the page
 ---
 
