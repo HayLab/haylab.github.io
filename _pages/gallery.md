@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /gallery/
-title: gallery
+title: Gallery
 priority: 5
 description:
 nav: true
