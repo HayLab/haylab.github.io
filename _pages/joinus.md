@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /joinus/
-title: join us
+title: Join us
 priority: 6
 description: Interested in our Lab?
 nav: true
