@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /projects/
-title: projects
+title: Projects
 priority: 2
 description: Current Projects in the Hay Lab.
 nav: true
