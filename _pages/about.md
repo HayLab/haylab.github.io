@@ -1,14 +1,14 @@
 ---
 layout: about
 permalink: /
-title: about
+title: About
 priority: 1
 
 profile:
   align: right
   image: Kerckhoff_front.jpg
 
-news: true  # includes a list of news items
+News: true  # includes a list of news items
 social: false  # includes social icons at the bottom of the page
 ---
 
