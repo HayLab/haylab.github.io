@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: About
+title: about
 priority: 1
 
 profile:
