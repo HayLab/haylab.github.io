@@ -9,6 +9,9 @@ nav: true
 
 Our lab is funded through a variety of sources, and we are grateful to the following groups in their support of our various projects.
 
+<strong>Defense Advanced Research Projects Administration: Agriculture and Biological Technologies Office (DARPA AgxBTO)</strong> <br>
+Supporting Georg and Thomas' work on a Y-linked gene drive in Amaranthus palmeri (2026)
+
 <strong>Center for Evolutionary Science (CES)</strong> <br>
 Supporting Thomas' work on the evolution of toxin-antidote systems, under a Pilot Grant (2026)
 
