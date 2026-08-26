@@ -41,15 +41,25 @@ nav: true
   <div class="w-100"><br></div><br>
 
   <div class="col">
-    {% include figure.html path="assets/img/Emma_Olinger.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/6feec074-8eed-42fa-af07-5576e6be002b~1.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
-        Emma Olinger
+        Andrea Monroy Borrego
       </center>
     </strong><br>
-    Undergraduate Researcher, Bioengineering '26
+    Research Technician
   </div>
 
+  <div class="col">
+    {% include figure.html path="assets/img/_DSC5827.jpg" class="img-fluid rounded z-depth-1" %}
+    <strong>
+      <center>
+        Marco Lee
+      </center>
+    </strong><br>
+    Visiting Postdoctoral Fellow, PhD
+  </div>
+  
   <div class="col">
     {% include figure.html path="assets/img/sawyervanzanten.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
