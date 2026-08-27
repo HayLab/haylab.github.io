@@ -51,7 +51,7 @@ nav: true
   </div>
 
   <div class="col">
-    {% include figure.html path="assets/img/_DSC5827.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/MarcoHeadshot2.png" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
         Marco Lee
