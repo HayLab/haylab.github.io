@@ -9,6 +9,9 @@ nav: true
 
 Our lab is funded through a variety of sources, and we are grateful to the following groups in their support of our various projects.
 
+<strong>Philanthropists Jim and Charlotte Cordes</strong> <br>
+Supporting Thomas' work on a novel insect transgenesis technique, under a Cordes Wild Idea Research Fund (2026)
+
 <strong>Center for Evolutionary Science (CES)</strong> <br>
 Supporting Thomas' work on the evolution of toxin-antidote systems, under a Pilot Grant (2026)
 
